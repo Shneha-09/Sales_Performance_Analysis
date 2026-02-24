@@ -1,10 +1,10 @@
 #  Sales Performance Analysis & Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes 51,000+ global retail transactions to evaluate sales performance, profitability trends, and regional growth patterns.  
 The objective was to extract meaningful business insights and build an interactive dashboard to support data-driven decision-making.
 
----
+
 
 ##  Tech Stack
 - Python (Pandas, Matplotlib, Seaborn)
@@ -12,7 +12,6 @@ The objective was to extract meaningful business insights and build an interacti
 - Microsoft Power BI
 - CSV Dataset
 
----
 
 ##  Dataset Information
 - 51,000+ transaction records
@@ -26,7 +25,7 @@ The objective was to extract meaningful business insights and build an interacti
   - Shipping Cost
   - Customer Details
 
----
+
 
 ##  Project Workflow
 
@@ -59,7 +58,7 @@ Built an interactive dashboard using Microsoft Power BI including:
 - Top Customers
 - Interactive filters (Region, Category, Year)
 
----
+
 
 ##  Key Insights
 - Certain regions contribute significantly higher revenue.
@@ -68,11 +67,10 @@ Built an interactive dashboard using Microsoft Power BI including:
 - Some products consistently result in financial losses.
 - Sales show seasonal growth patterns.
 
----
 
 ##  Conclusion
 This project demonstrates end-to-end data analysis skills including data cleaning, exploratory analysis, business insight generation, and dashboard creation.  
 It highlights the ability to transform raw transactional data into actionable business intelligence.
 
----
+
 
